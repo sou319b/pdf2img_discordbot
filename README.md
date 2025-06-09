@@ -24,7 +24,7 @@ Discordに添付されたPDFファイルやOfficeドキュメント（Word, Exce
 ### 1. リポジトリのクローン
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
+git clone https://github.com/sou319b/pdf2img_discordbot.git
 cd YOUR_REPOSITORY
 ```
 
@@ -122,7 +122,3 @@ python pdf_bot3.py
 * LibreOfficeのプロセスがタイムアウトした場合（デフォルト60秒）、処理は失敗します。
 * 暗号化されたPDFや破損しているファイルは変換できません。
 
-## ライセンス
-
-このプロジェクトは [MIT License](LICENSE) の下で公開されています。
-*(↑ライセンスをMITにしない場合は変更してください)*
