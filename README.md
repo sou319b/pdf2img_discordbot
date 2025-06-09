@@ -25,7 +25,7 @@ Discordに添付されたPDFファイルやOfficeドキュメント（Word, Exce
 
 ```bash
 git clone https://github.com/sou319b/pdf2img_discordbot.git
-cd YOUR_REPOSITORY
+cd pdf2img_discordbot
 ```
 
 ### 2. 外部ソフトウェアのインストール
